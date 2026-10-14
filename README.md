@@ -1,2 +1,2 @@
-# AudioRecog_VisionArtificial-
+# AudioRecog (VisionArtificial)
 Proyecto de ML para el Semillero Aperture UNAL Medellín 2026-2
